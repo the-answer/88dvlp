@@ -1,0 +1,9 @@
+# Site settings
+title: "SEO Blog - 88development"
+description: "SEO for analytical minds."
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: "http://88dvlp.com" # the base hostname & protocol for your site
+author: "J + K"
+
+# Build settings
+markdown: kramdown

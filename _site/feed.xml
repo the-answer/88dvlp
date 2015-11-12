@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll + Skeleton CSS</title>
+    <description>A basic Jekyll site incorporating the Skeleton responsive CSS boilerplate.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 Nov 2015 22:01:05 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 22:01:05 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Topical Trust Flow - TTF</title>
+        <description>&lt;p&gt;During the REU, I helped build a computer simulation of the DLS to
+quantify possible sources of systematic error. The simulation
+realistically models the density of stars and galaxies in the
+universe with realistic energy distributions. It allows the galaxies
+to be distorted by an input dark matter distribution and it
+realistically simulates the atmospheric point spread function and
+atmospheric noise.&lt;/p&gt;
+
+&lt;p&gt;It separately simulates the 8 CCD chips that
+make up the detector and it simulates the astronomical process of
+dithering where multiple exposures at slight offsets are coadded
+together. For increased efficiency, I wrote the simulation so that
+it could be run in parallel on the computer cluster at Davis. Using
+the simulated data, I measured the dark matter signal in the simulated
+data and compared it to the signal in the Monte Carlo distribution.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/11/12/ttf.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/12/ttf.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/640x480&quot; alt=&quot;The simulated stars and galaxies from my DLS simulation I created during my 2006 physics REU.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During the summer of 2006, I participated in a &lt;a href=&quot;http://london.ucdavis.edu/~reu/REU06/reu06.html&quot;&gt;physics REU at UC
+Davis&lt;/a&gt;. I worked
+for &lt;a href=&quot;http://www.physics.ucdavis.edu/people/faculty/faculty_profiles/anthony_tyson.html&quot;&gt;Tony
+Tyson&lt;/a&gt;
+in the &lt;a href=&quot;http://www.physics.ucdavis.edu/Cosmology/universe.html&quot;&gt;UC Davis cosmology
+group&lt;/a&gt;.
+Tony Tyson worked on the &lt;a href=&quot;http://dls.physics.ucdavis.edu/&quot;&gt;Deep Lens
+Survey&lt;/a&gt; and is director of the
+upcoming &lt;a href=&quot;http://www.lsst.org/&quot;&gt;Large Synoptic Survey Telescope&lt;/a&gt;.
+These experiments use &lt;a href=&quot;http://en.wikipedia.org/wiki/Weak_gravitational_lensing&quot;&gt;weak gravitational
+lensing&lt;/a&gt;
+to infer the distribution of dark matter in the universe.&lt;/p&gt;
+
+&lt;p&gt;During the REU, I helped build a computer simulation of the DLS to
+quantify possible sources of systematic error. The simulation
+realistically models the density of stars and galaxies in the
+universe with realistic energy distributions. It allows the galaxies
+to be distorted by an input dark matter distribution and it
+realistically simulates the atmospheric point spread function and
+atmospheric noise. It separately simulates the 8 CCD chips that
+make up the detector and it simulates the astronomical process of
+dithering where multiple exposures at slight offsets are coadded
+together. For increased efficiency, I wrote the simulation so that
+it could be run in parallel on the computer cluster at Davis. Using
+the simulated data, I measured the dark matter signal in the simulated
+data and compared it to the signal in the Monte Carlo distribution.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/11/11/first-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/11/first-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
